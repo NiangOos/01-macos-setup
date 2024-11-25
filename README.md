@@ -1,3 +1,5 @@
+repo from https://github.com/mohamedLazyBob
+
 # 01-macos-setup
 
 You run this script on your new macOs machine to setup it for the selection piscine.
